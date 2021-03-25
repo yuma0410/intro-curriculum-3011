@@ -1,3 +1,3 @@
 FROM node:14.15.4
 
-WORKDIR /app
+WORKDIR /intro-curriculum-3011
